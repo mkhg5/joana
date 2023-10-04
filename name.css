@@ -1,0 +1,21 @@
+body{
+text-align: center;
+background-color: pink;
+}
+
+.x{
+color: red;
+}
+
+button{
+color: lightblue;
+background-color: blueviolet;
+height: 20pcx;
+width: 100px;
+}
+
+button:hover{
+color: blue;
+background-color: lightpink;
+}
+
